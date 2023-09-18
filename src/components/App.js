@@ -22,7 +22,7 @@ const App = () => {
             <div className="model">
               <h2>Model Content</h2>
               <p>This is a model content</p>
-              <button onClick={toggleModel}>X</button>
+              // <button onClick={toggleModel}>X</button>
             </div>
           )}
         </div>
